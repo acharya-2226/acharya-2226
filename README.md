@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="dp.jpeg" alt="Siddharth Acharya" width="160" height="160">
+
 # 👋 Hi, I'm Siddharth Acharya
 
 ### Computer Engineering Student & Builder
@@ -95,7 +97,16 @@ More projects are on my [repositories page](https://github.com/acharya-2226?tab=
 | Web Framework: Django | Broadway Infosys | Jun 2025 |
 | Web Development and Graphics | Skill Spark | Jun 2024 |
 
+---
 
+## 📈 GitHub at a Glance
+
+<div align="center">
+
+[![Followers](https://img.shields.io/github/followers/acharya-2226?style=for-the-badge&logo=github&label=Followers)](https://github.com/acharya-2226?tab=followers)
+[![Repositories](https://img.shields.io/badge/Repositories-Browse%20all-181717?style=for-the-badge&logo=github)](https://github.com/acharya-2226?tab=repositories)
+
+</div>
 
 ---
 
