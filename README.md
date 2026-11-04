@@ -1,6 +1,3 @@
-<div align="center">
-
-<img src="dp.jpeg" alt="Siddharth Acharya" width="160" height="160">
 
 # 👋 Hi, I'm Siddharth Acharya
 
