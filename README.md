@@ -95,16 +95,7 @@ More projects are on my [repositories page](https://github.com/acharya-2226?tab=
 | Web Framework: Django | Broadway Infosys | Jun 2025 |
 | Web Development and Graphics | Skill Spark | Jun 2024 |
 
----
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=acharya-2226&show_icons=true&hide_border=true&count_private=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=acharya-2226&layout=compact&hide_border=true)
-
-</div>
 
 ---
 
